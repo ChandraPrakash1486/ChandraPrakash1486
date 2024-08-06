@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 You Can Reach Me On 
+- 📫 You Can Reach Me On https://www.linkedin.com/in/chandra-prakash-t-82327927a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
