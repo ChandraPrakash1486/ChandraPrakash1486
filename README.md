@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandra Prakash</h1>
 <h3 align="center">Software Engineer</h3>
-<h3 align="left">Currently, I’m diving into <u>Blockchain Technology</u>. My focus areas include understanding decentralized systems, writing smart contracts with Solidity, and exploring the applications of blockchain in industries like finance, supply chain, and more. I’m also working on personal projects and contributing to open-source blockchain tools to deepen my knowledge.</h3>
+<h3 align="left">Currently, I’m diving into <u>AI and ML Technology</u>. My focus areas include understanding AI agents, learning to develop intelligent Enterprise grade applications, and exploring the applications of AI in industries like finance, supply chain, and more.</h3>
 
 
 
