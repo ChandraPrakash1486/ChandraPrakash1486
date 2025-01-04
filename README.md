@@ -3,7 +3,7 @@
 <h3 align="left">Currently, I’m diving into <u>AI and ML Technology</u>. My focus areas include understanding AI agents, learning to develop intelligent Enterprise grade applications, and exploring the applications of AI in industries like finance, supply chain, and more.</h3>
 
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@chandraprakashtekwani8)](https://medium.com/@yourusername)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandraprakash1486&label=Profile%20views&color=0e75b6&style=flat" alt="chandraprakash1486" /> </p>
 
@@ -13,6 +13,10 @@
 <p align="left">
 <a href="https://dev.to/thisisthedeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thisisthedeveloper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandra-prakash-tekwani-82327927a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra-prakash-tekwani-82327927a" height="30" width="40" /></a>
+  <a href="https://medium.com/@chandraprakashtekwani8" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&logoColor=white" alt="Medium Badge" height="30" width="120">
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
