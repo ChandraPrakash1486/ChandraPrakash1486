@@ -3,6 +3,7 @@
 <h3 align="left">Currently, I’m diving into <u>AI and ML Technology</u>. My focus areas include understanding AI agents, learning to develop intelligent Enterprise grade applications, and exploring the applications of AI in industries like finance, supply chain, and more.</h3>
 
 
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@chandraprakashtekwani8)](https://medium.com/@yourusername)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandraprakash1486&label=Profile%20views&color=0e75b6&style=flat" alt="chandraprakash1486" /> </p>
 
