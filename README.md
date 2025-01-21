@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandra Prakash</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Aspiring Full-Stack Engineer, AI/ML, Web Development </h3>
 <h3 align="left">Currently, I’m diving into <u>AI and ML Technology</u>. My focus areas include understanding AI agents, learning to develop intelligent Enterprise grade applications, and exploring the applications of AI in industries like finance, supply chain, and more.</h3>
 
 
