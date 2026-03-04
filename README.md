@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandra Prakash</h1>
 <h3 align="center">Aspiring Software Engineer, AI/ML, Full-stack</h3>
-<h3 align="left">My current journey is deep in AI and Machine Learning engineering, with a strong focus on mastering Python for AI/ML model and agent development and ensuring their robust production deployment. Concurrently, I'm exploring AI's diverse industry applications, from IT to FinTech, e-commerce, and logistics, all while building powerful backend capabilities with Java technology.</h3>
+<h3 align="left">I am currently developing backend engineering skills using Python and open-source technologies.</h3>
 
 
 
